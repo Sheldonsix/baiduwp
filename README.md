@@ -16,11 +16,11 @@ headers:{
 **INPUT YOUR STOKEN HERE**
 顾名思义，就是替换成SVIP账号的cookie等信息，建议找一个共享号的。
 先登录SVIP的网页版百度云，chrome可以使用插件EditThisCookie很方便找到相应内容。
-[](https://ftp.bmp.ovh/imgs/2020/08/a8275c0f0fb1a5f2.png)
-[](https://ftp.bmp.ovh/imgs/2020/08/9be1d79458845402.png)
+!(https://ftp.bmp.ovh/imgs/2020/08/a8275c0f0fb1a5f2.png)
+!(https://ftp.bmp.ovh/imgs/2020/08/9be1d79458845402.png)
 找到Cloudflare的Workers，创建Workers。
 复制替换好的代码
-[](https://ftp.bmp.ovh/imgs/2020/08/ee8179b526f85b8c.png)
+!(https://ftp.bmp.ovh/imgs/2020/08/ee8179b526f85b8c.png)
 左侧粘贴代码，点击保存并部署，右侧就可以看到链接。
 搭建完成
 # Thanks
